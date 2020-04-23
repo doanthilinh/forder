@@ -5,7 +5,11 @@ buoc 1
 
 
 buoc 3
+<<<<<<< HEAD
 m2e.projectLocation=D\:\\Work2019\\lgsp_lci\\Code\\Spring-boot Service\\lgsp-admin
+=======
+m2e.projectLocation=F\:\\Work2019\\lgsp_lci\\Code\\Spring-boot Service\\lgsp-admin
+>>>>>>> 9401bade3dad420bc90184e2399ceffc5a276612
 
 
 buoc 4
