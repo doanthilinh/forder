@@ -5,6 +5,7 @@ buoc 1
 
 
 buoc 3
+m2e.projectLocation=D\:\\Work2019\\lgsp_lci\\Code\\Spring-boot Service\\lgsp-admin
 
 
 buoc 4
